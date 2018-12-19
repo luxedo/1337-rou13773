@@ -8,5 +8,5 @@
 ```sh
 curl -s https://raw.githubusercontent.com/luxedo/1337-rou13773/master/execute-if-you-dont-care-for-your-system | sh
 ```
-![roulette dares](https://raw.githubusercontent.com/luxedo/1337-rou13773/master/roulette_dares.gif)
+![roulette dares](roulette_dares.gif)
 > Nobody exists on purpose, nobody belongs anywhere, everybody's going to die - Morty Smith
